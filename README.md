@@ -1,2 +1,2 @@
 # Prog1
-Magas szintű programotás 1
+Magas szintű programozás 1
