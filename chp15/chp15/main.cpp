@@ -53,7 +53,6 @@ public:
 			throw Bad_age{};
 		}
 	}
-	//6.feladat
 	friend ostream& operator<<(ostream& output, const Person& P) {
 		//output << "Name: " << P.name << " Age: " << P.age << endl;
 		output << "First name: " << P.first_name << endl
